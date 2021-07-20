@@ -32,11 +32,7 @@
     }
 
 @media (max-width: 640.98px) {
-    .top-row:not(.auth) {
-        display: none;
-    }
-
-    .top-row.auth {
+    .top-row {
         justify-content: space-between;
     }
 
